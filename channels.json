@@ -1,0 +1,5 @@
+[
+  { "name": "Korku Kanalı", "credentials": "cred1.json" },
+  { "name": "Bilgi Kanalı", "credentials": "cred1.json" },
+  { "name": "Para Kanalı", "credentials": "cred1.json" }
+]
